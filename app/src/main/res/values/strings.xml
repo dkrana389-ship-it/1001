@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Reel Counter</string>
+    <string name="accessibility_description">Reel Counter Instagram mein sirf yeh pata lagata hai ki reel badli ya nahi, taaki aaj ki reels ki ginti aur time dikha sake. Yeh app koi text, message, password ya photo nahi padhta, aur internet permission bhi nahi leta. Sara data sirf aapke phone mein rehta hai.</string>
+</resources>
